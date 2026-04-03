@@ -735,8 +735,8 @@ Whilst incanting the dirge you may not talk or otherwise verbally communicate wi
 **Prerequisites:** Tech-Priest (Cranial Circuitry)
 
 You have replaced the creative half of your brain with sacred capacitance implants. You no longer feel emotion, and are instead embrace the crystal purity of logic. You are now immune to [Fear](fear%20and%20damnation.md#fear), [Pinning](combat.md#pinning), and any effects that stem from emotional disturbance. Other followers of the Omnissiah will rejoice in your newfound mental freedom and clarity, but lesser humans will likely find you at least somewhat cold and distant. Should you have any [Mental Disorders](fear%20and%20damnation.md#disorders%20and%20their%20severity) that are no longer relevant the GM will replace those with appropriate new ones of approximately equal severity.
-### **Rival
-Talent Groups:** Academics, Adepta Soroitas, Adeptus Arbites, Adeptus Mechanicus, Administratum, Astropaths, Ecclesiarchy, Enforcers, Feral Worlders, Government, Hivers, Imperial Guard, Imperial Navy, Inquisition, Middle Classes, Military, Navigators, Nobility, Rogue Trader, Underworld, Void Born, Workers
+### **Rival**
+**Talent Groups:** Academics, Adepta Soroitas, Adeptus Arbites, Adeptus Mechanicus, Administratum, Astropaths, Ecclesiarchy, Enforcers, Feral Worlders, Government, Hivers, Imperial Guard, Imperial Navy, Inquisition, Middle Classes, Military, Navigators, Nobility, Rogue Trader, Underworld, Void Born, Workers
 
 Essentially the opposite of [Peer](talents.md#peer), this Talent represents aggressive competition and some animosity with a particular social group or organisation. You suffer a –10 penalty to all Fellowship-based Tests when interacting with the group in question.
 
