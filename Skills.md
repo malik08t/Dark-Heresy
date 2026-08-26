@@ -28,7 +28,7 @@ Skills are divided into two categories: Basic and Advanced. This distinction def
 
 Basic Skills are those common to citizens throughout the Imperium, and simply growing up on a world under Imperial rule exposes characters to the rudiments of the Skill. As a result, you can make Skill Tests using Basic Skills even if you don't have the Skill in question. Since you are relying on natural aptitude rather than any sort of formal training, you make the test at half (round down) your Characteristic.
 
-The Characteristic gets halved before any situational modifiers get applied to the test. An Easy test against an untrained Basic Skill would be (Characteristic/2)+30, and not (Characteristic+30)/2.
+The Characteristic gets halved before any situational modifiers get applied to the test. An **Easy (+30) Test** against an untrained Basic Skill would be (Characteristic/2)+30, and not (Characteristic+30)/2.
 ## **Advanced Skills**
 
 Advanced Skills are those that require training and experience in order to master and understand. If you do not have an Advanced Skill, you cannot attempt it. No matter how intelligent you are, for instance, you will not be able to access an encrypted cogitator engine without some formal training in cryptography or usage of advanced technical systems.

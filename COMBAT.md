@@ -632,7 +632,7 @@ Size is an important factor to consider in combat as it's usually easier to hit 
 | Immense (Biotitan, macro hauler)             |       +40       |
 | Gargantuan (lesser battle titan, ore seeker) |       +50       |
 | Colossal (Greater battle titan, Ordinatus)   |       +60       |
-## **Spray and Pray
+## **Spray and Pray**
 
 Ordinarily you must be aware of your target in order to attack it. If you suspect an enemy is present in an area, but you cannot confirm his presence, blasting away into underbrush or darkness may be a viable strategy. The [Suppressing Fire](combat.md#suppressing%20fire%20%28full%20action%29) Action can be an effective method of flushing an opponent out from concealment, as can lighting the general area on fire with a flamer.
 
